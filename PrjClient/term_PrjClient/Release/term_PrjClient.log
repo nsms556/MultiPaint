@@ -1,0 +1,4 @@
+﻿  tClient.cpp
+  코드를 생성하고 있습니다.
+LINK : fatal error C1354: 이전 개체 파일 D:\VSWorkspace\C\term_PrjClient\Release\term_PrjClient.iobj에 액세스하는 동안 오류 발생(corrupted symbol table)
+LINK : fatal error LNK1257: 코드를 생성하지 못했습니다.
